@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-It's a mini project of developing Tic Tac Toe Game
+It's a mini project of Tic Tac Toe Game using HTML, CSS and JavaScript
